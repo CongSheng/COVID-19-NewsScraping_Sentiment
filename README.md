@@ -8,7 +8,7 @@ Using online news articles related to COVID-19, sentiment scores are obtained fr
 Potentially reflect the outlook of COVID-19.
 
 ## Future work (potentially):
-* vVisualization of sentiment score.
+* Visualization of sentiment score.
 * Filter or group articles further and evaluate based on grouping/filter.
 * Integrating with other COVID-19 data for better insights.
 * Scraping using social media
